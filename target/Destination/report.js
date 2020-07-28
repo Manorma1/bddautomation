@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 21288737199,
+  "duration": 11932872200,
   "status": "passed"
 });
 formatter.scenario({
@@ -71,39 +71,39 @@ formatter.match({
   "location": "MyTestDefts.user_is_on_homepage()"
 });
 formatter.result({
-  "duration": 557499500,
+  "duration": 939537700,
   "status": "passed"
 });
 formatter.match({
   "location": "MyTestDefts.user_clicks_on_register_button()"
 });
 formatter.result({
-  "duration": 2381723000,
+  "duration": 2047142600,
   "status": "passed"
 });
 formatter.match({
   "location": "MyTestDefts.user_enter_all_required_registration_details()"
 });
 formatter.result({
-  "duration": 4120775001,
+  "duration": 1992762600,
   "status": "passed"
 });
 formatter.match({
   "location": "MyTestDefts.user_Clicks_on_register_submit_button()"
 });
 formatter.result({
-  "duration": 2222625401,
+  "duration": 2395846800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyTestDefts.user_should_be_able_to_register_successfully()"
 });
 formatter.result({
-  "duration": 286066200,
+  "duration": 136611100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 4963885900,
+  "duration": 396939600,
   "status": "passed"
 });
 });
