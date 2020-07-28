@@ -16,7 +16,7 @@ public class BrowserManager extends Util {
     Loadprop loadprop = new Loadprop();
 
         public void setBrowser () {
-            
+
             String browserName =loadprop.getProperty("BrowserName");
 
             //Check if parameter passed from TestNG is 'firefox'
